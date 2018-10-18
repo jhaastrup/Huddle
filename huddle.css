@@ -1,0 +1,146 @@
+@import url("font-awesome/css/font-awesome.css");
+body {
+
+    background-color: #fff;
+    color: #333;
+    font-family: "Trebuchet MS", Verdana, Arial, Helvetica, sans-serif; 
+    max-width: 100% !important;
+    max-height: 100%;
+}   
+
+
+.container{
+  max-width:100% ;
+  max-height: 100%;
+  border: 0px solid rgba(12, 12, 12, 0.822); 
+
+}
+
+.header{ 
+  max-width: 100%; 
+  height: 400px;
+ border: 1px solid white;
+
+} 
+
+.logo{
+  max-width: 300px;
+  margin-left: 30px;
+  border:0px solid rgba(214, 35, 43, 0.5);
+float: left;
+} 
+
+.btn-holder{
+max-width: 500px;
+max-height: 50px;
+border:0px solid rgba(214, 35, 43, 0.5);
+float: right;
+margin-right: 20px;  
+padding: 5px;  
+
+}
+
+.try-it-btn{
+max-width:500px;
+padding: 3px 3px 3px 3px;
+border-radius: 50px; 
+border-color:#fa74c6; 
+border-style: solid;
+background-color: #fff; 
+float: right;
+margin-right: 20px;
+padding: 10px 30px 10px 30px;
+} 
+
+.header-content{
+align-content: center;
+max-width: 600px;
+border: 0px solid black;
+margin-top: 180px; 
+margin-left: auto;
+margin-right:auto; 
+text-align: center;
+}
+
+.header .header-content h3{
+  text-align: center; 
+
+} 
+
+.get-started-btn{
+background-color: #fa74c6;
+padding: 20px 20px 10px 20px;
+border-radius: 50px; 
+width:250px; 
+border:none;
+
+} 
+
+.part-one{
+max-width:100%;
+border: 0px solid black;
+}
+
+.part-one img{
+display: block;
+margin-left: auto;
+margin-right: auto;
+} 
+
+.s-box{
+  max-width: 500px;
+  max-height: 400px;
+  border:0px solid #333;
+  margin-left: 350px;
+  float: left;
+} 
+
+.part-two{
+  max-width: 100%; 
+
+border: 0px solid rgb(165, 154, 154); 
+margin-top: 200px;
+} 
+
+.c-box{
+  max-width: 500px; 
+  max-height: 400px;
+  border:0px solid black; 
+  float: left;
+  margin-left: 150px;
+  background-color: #f6fbff;
+  
+}  
+
+.in-part-two{
+  max-width: 100%;
+  background-color: #f6fbff; 
+  border: 0px solid black;
+} 
+
+.part-three{
+max-width: 100%; 
+border: 0px solid black;
+
+} 
+
+.part-four{
+  max-width: 100%; 
+  border:0px solid black; 
+  margin-top: 300px;
+} 
+
+.part-five{
+  max-width: 100%;
+  border:0px solid black;
+  text-align: center;
+} 
+
+.get-btn{
+  background-color: #fa74c6;
+padding: 20px 20px 10px 20px;
+border-radius: 50px; 
+width:250px; 
+border:none;
+
+}
